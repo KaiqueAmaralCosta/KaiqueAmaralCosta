@@ -1,10 +1,6 @@
 <h1 align="center">Ola 👋, Bem-vindo a o meu github meu nome é Kaique Costa</h1>
 <h3 align="center">Desenvolvedor Full Stack Python, React, JavaScript, Node.js e SQL: Transformando ideias em soluções inovadoras.</h3>
 
-# 💫 About Me:
-Ola 👋, Bem-vindo a o meu github meu nome é Kaique Costa<br>Desenvolvedor Full Stack Python, React, JavaScript, Node.js e SQL: Transformando ideias em soluções inovadoras.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pradaria) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquecostaprad/) 
 
@@ -14,11 +10,5 @@ Ola 👋, Bem-vindo a o meu github meu nome é Kaique Costa<br>Desenvolvedor Ful
 ![](https://github-readme-stats.vercel.app/api?username=KaiqueAmaralCosta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaiqueAmaralCosta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueAmaralCosta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=KaiqueAmaralCosta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
