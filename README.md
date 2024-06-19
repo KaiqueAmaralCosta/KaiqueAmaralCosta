@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, Bem-vindo a o meu github meu nome é Kaique Costa</h1>
+<h1 align="center">Ola 👋, Bem-vindo a o meu github, meu nome é Kaique Costa</h1>
 <h3 align="center">Desenvolvedor Full Stack Python, React, JavaScript, Node.js e SQL: Transformando ideias em soluções inovadoras.</h3>
 
 ## 🌐 Socials:
